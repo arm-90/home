@@ -1,0 +1,316 @@
+@media (max-width: 1736px) {
+	.home {
+		padding-top: 150px;
+	}
+
+	.home__title {
+		font-size: 65px;
+	}
+
+	.home__title:first-child:before {
+		width: 770px;
+		top: 16px;
+		left: 88px;
+	}
+
+	.home__title:first-child:after {
+		width: 604px;
+		top: 112px;
+		left: 213px;
+	}
+}
+@media (max-width: 991.98px) {
+	.logo {
+		width: 130px;
+	}
+	.logo img {
+		width: 130px;
+	}
+
+	.soc__column > a {
+		margin-bottom: 20px;
+	}
+
+	.home {
+		padding-top: 120px;
+	}
+
+	.home__title {
+		font-size: 30px;
+		line-height: 38px;
+		margin-bottom: 35px;
+	}
+
+	.home__title:after, .home__title:before {
+		height: 34px;
+	}
+
+	.home__title:first-child:before {
+		width: 385px;
+		top: 7px;
+		left: 167px;
+	}
+
+	.home__title:first-child:after {
+		width: 268px;
+		top: 49px;
+		left: 244px;
+	}
+
+	.home__text {
+		max-width: 550px;
+		font-size: 15px;
+		line-height: 22px;
+		margin-bottom: 35px;
+	}
+
+	.home__link {
+		line-height: 39px;
+		width: 160px;
+	}
+
+	.next-link img {
+		height: 20px;
+	}
+
+	.next-link__text {
+		font-size: 15px;
+	}
+}
+@media (max-width: 550px) {
+	.popup__content-n {
+		padding: 15px 20px 17px 20px;
+	}
+
+	.input {
+		width: 240px;
+	}
+
+	.select {
+		width: 240px;
+	}
+
+	.popup__text {
+		max-width: 240px;
+	}
+}
+@media (max-width: 767.98px) {
+	.header {
+		width: 50px;
+	}
+
+	.logo {
+		-webkit-transform: translateX(-57%);
+		    -ms-transform: translateX(-57%);
+		        transform: translateX(-57%);
+	}
+
+	.signin {
+		top: 36px;
+		right: 10px;
+		width: 85px;
+	}
+
+	.home {
+		max-width: 75%;
+		margin: 0 auto;
+	}
+
+	.home__title {
+		font-size: 26px;
+		line-height: 34px;
+	}
+
+	.home__title:after, .home__title:before {
+		display: none;
+	}
+
+	.home__link:first-child {
+		margin: 0 0 20px 0;
+	}
+}
+@media (max-width: 1736px) {
+	.howitem-1__img {
+		display: none;
+	}
+
+	.how__body {
+		text-align: center;
+	}
+
+	.howitem-1__row {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+
+	.howitem__text {
+		font-size: 16px;
+	}
+
+	.howitem-4__row {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+
+	.howitem-4__item:first-child {
+		margin-bottom: 20px;
+	}
+	.howitem-4__item img {
+		max-width: 725px;
+		max-height: 430px;
+	}
+
+	.howitem-8__item img {
+		width: 100%;
+	}
+	.howitem-8__item:first-child {
+		width: 100%;
+	}
+	.howitem-8__item:last-child {
+		width: 60%;
+	}
+
+	.howitem-9__item img {
+		width: 100%;
+	}
+
+	.howitem-11__item img {
+		max-width: 350px;
+	}
+
+	.howitem-13__link {
+		width: 360px;
+	}
+
+	.howitem-13__link-l {
+		width: 738px;
+	}
+}
+@media (max-width: 991.98px) {
+	.how__title {
+		display: block;
+	}
+
+	.howslider__arrow {
+		margin: 10px 0 0 0;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+
+	.howitem-2__row {
+		display: block;
+	}
+
+	.howitem-column__text {
+		font-size: 14px;
+	}
+
+	.howitem-3__work {
+		opacity: 1;
+	}
+
+	.howitem-3__link:after {
+		opacity: 0.8;
+	}
+
+	.howitem-4__item img {
+		width: 550px;
+	}
+
+	.howitem-6__item img {
+		width: 80%;
+	}
+
+	.howitem-7__item {
+		width: 80%;
+	}
+	.howitem-7__item img {
+		width: 100%;
+	}
+
+	.howitem-11__row {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+
+	.howitem-11__item img {
+		max-width: 100%;
+	}
+
+	.howitem-13__link-l {
+		width: 360px;
+	}
+}
+@media (max-width: 767.98px) {
+	.how {
+		padding-left: 61px;
+	}
+
+	.how__body {
+		padding: 10px 10px 5px 10px;
+	}
+
+	.how__title {
+		font-size: 35px;
+	}
+
+	.howitem__text {
+		font-size: 14px;
+	}
+
+	.howitem-column__item {
+		min-height: 109px;
+		height: auto;
+		padding-left: 10px;
+	}
+
+	.howitem-column__num {
+		margin-right: 10px;
+	}
+
+	.howitem-column__text {
+		font-size: 16px;
+	}
+
+	.howitem-column__num {
+		font-size: 20px;
+	}
+
+	.howitem-3__link img {
+		width: 20%;
+	}
+
+	.howitem-4__item img {
+		width: 80%;
+	}
+}
+@media (max-width: 479.98px) {
+	.howitem-7__desc {
+		font-size: 10px;
+	}
+
+	.howitem-11__desc {
+		font-size: 10px;
+		bottom: 2px;
+	}
+
+	.howitem-13__link {
+		padding: 10px 13px 9px 13px;
+		width: 195px;
+	}
+
+	.howitem-13l__title {
+		font-size: 16px;
+		margin-bottom: 19px;
+	}
+
+	.howitem-13l__text {
+		font-weight: 100;
+		font-size: 14px;
+		line-height: 16px;
+	}
+}
